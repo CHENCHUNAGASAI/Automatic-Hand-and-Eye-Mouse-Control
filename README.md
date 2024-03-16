@@ -20,8 +20,8 @@ Addressing the needs of individuals with limited hand mobility, the project aims
 ## About the project
 The project aims to create an automatic mouse control system utilizing hand gestures, catering to individuals with limited hand mobility. It focuses on precise gesture recognition, real-time hand movement simulation, and intuitive user interface design for enhanced accessibility and usability.
 
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Jmdr3wn9fr3N3rKx8gbFSzJ4n2JgzEdCfg&usqp=CAU">
-       <img src="https://images.app.goo.gl/pwFmpPsTuKUz8vReA" alt="Image 2" style="width: 30%; margin: 5px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Jmdr3wn9fr3N3rKx8gbFSzJ4n2JgzEdCfg&usqp=CAU">
+<img src="https://images.app.goo.gl/pwFmpPsTuKUz8vReA" alt="Image 2" style="width: 30%; margin: 5px;">
 
 ## The Problem It Solves
 Precision and responsiveness: Ensuring that the system can accurately read delicate mouse movements and duplicate precise hand motions and activities in real time.
