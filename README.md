@@ -24,6 +24,11 @@ The project aims to create an automatic mouse control system utilizing hand gest
        <img src="https://images.app.goo.gl/pwFmpPsTuKUz8vReA" alt="Image 2" style="width: 30%; margin: 5px;">
 
 ## The Problem It Solves
+Precision and responsiveness: Ensuring that the system can accurately read delicate mouse movements and duplicate precise hand motions and activities in real time.
+Customization and adaptability: Allowing users to modify sensitivity, speed, and control options based on their preferences and abilities.
+Feedback and Guidance: Using effective feedback methods to offer users with real-time visual, aural, or haptic cues that increase their awareness of hand positions and interactions with objects.
+Accessibility and Inclusivity: Designing the system to suit different levels of hand movement and dexterity, ensuring that it is accessible and useful by a wide range of users.
+User Interface Design: Creating an intuitive and user-friendly interface that simplifies the control process and reduces cognitive burden, allowing users to focus on task execution rather than navigation.
 
 
 ## Technical implemntaion 
