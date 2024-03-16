@@ -6,7 +6,7 @@
 # [Website link](http://www.google.com)  [`Demo video link `](http://www.google.com)
 Automatic Mouse Hand Control integrates hardware (mouse) with software (gesture recognition, simulation algorithms) to enable users to manipulate a virtual hand through mouse movements, enhancing accessibility and interaction for those with limited mobility.
 ## Team Details
-Team number : VH096
+Team number : VH041
 
 | Name    | Email           |
 |---------|-----------------|
@@ -21,7 +21,7 @@ Addressing the needs of individuals with limited hand mobility, the project aims
 The project aims to create an automatic mouse control system utilizing hand gestures, catering to individuals with limited hand mobility. It focuses on precise gesture recognition, real-time hand movement simulation, and intuitive user interface design for enhanced accessibility and usability.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Jmdr3wn9fr3N3rKx8gbFSzJ4n2JgzEdCfg&usqp=CAU">
-<img src="https://images.app.goo.gl/pwFmpPsTuKUz8vReA" alt="Image 2" style="width: 30%; margin: 5px;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPs6AexlwCQljzEXLQE6qgJsj8VAGVE9R2jtduoegHl4xSlsu5by5VneM&s=10">
 
 ## The Problem It Solves
 Precision and responsiveness: Ensuring that the system can accurately read delicate mouse movements and duplicate precise hand motions and activities in real time.
@@ -33,7 +33,8 @@ User Interface Design: Creating an intuitive and user-friendly interface that si
 
 ## Technical implemntaion 
 Technical implementation for automatic mouse using hand control entails creating software to interpret mouse movements, recognize gestures, and simulate corresponding hand movements. This is done using algorithms for gesture recognition, hand movement simulation, and real-time feedback, as well as customization options and extensive testing for accuracy and usability.
-![flowchart](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F338701325%2Ffigure%2Ffig1%2FAS%3A849962380324864%401579658231039%2FFlowchart-of-virtual-mouse-system-Flowchart-of-virtual-mouse-system.png&tbnid=0dYpSO9LhM-SGM&vet=1&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FFlowchart-of-virtual-mouse-system-Flowchart-of-virtual-mouse-system_fig1_338701325&docid=3FP8iu2KHg3SXM&w=850&h=345&itg=1&hl=en-GB&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=6d0a1a47165786ae&shem=trie)
+![flowchart]
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPP2iCk73JfAlGR9lRb1xSXDVkbiHerhLg4g&usqp=CAU">
 ## Techstacks used 
 tkinter,python
 ## How to run locally 
