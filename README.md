@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href=""> Healthcare Website </a><br>
+        <a href=""> AUTOMATIC MOUSE USING HAND CONTROL Website </a><br>
 </h1>
 
 # [Website link](http://www.google.com)  [`Demo video link `](http://www.google.com)
