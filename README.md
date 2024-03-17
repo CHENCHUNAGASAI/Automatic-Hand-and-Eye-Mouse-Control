@@ -3,7 +3,7 @@
         <a href=""> AUTOMATIC MOUSE USING HAND CONTROL Website </a><br>
 </h1>
 
-# [Website link](http://www.google.com)  [`Demo video link `](https://drive.google.com/file/d/1sW_lgQaCjf8AsCDL8D1eaNcCqV4ArPJl/view?usp=drivesdk)
+# [`Demo video link `](https://drive.google.com/file/d/1sW_lgQaCjf8AsCDL8D1eaNcCqV4ArPJl/view?usp=drivesdk)
 Automatic Mouse Hand Control integrates hardware (mouse) with software (gesture recognition, simulation algorithms) to enable users to manipulate a virtual hand through mouse movements, enhancing accessibility and interaction for those with limited mobility.
 ## Team Details
 Team number : VH041
